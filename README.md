@@ -1,3 +1,3 @@
 <p align='center'><samp>Hello there! I'm <b><a href='https://github.com/abdelyouni'>YOUNI</a></b>.<br>I'm a Computer Science engineer.
-</samp></p><hr><p align='center'><span>Say hi ✋ to my new follower </span></br></br><img src='https://avatars3.githubusercontent.com/u/6371971?s=100&amp;v=4'><b></br>
-<a href='https://github.com/previousdeveloper'>gökhan</a></b></br></br></p><hr><b>Follow me, then refresh this page to see the Magic ✨😉</b>
+</samp></p><hr><p align='center'><span>Say hi ✋ to my new follower </span></br></br><img src='https://avatars0.githubusercontent.com/u/20886422?s=100&amp;v=4'><b></br>
+<a href='https://github.com/Evanto'>Evanto</a></b></br></br></p><hr><b>Follow me, then refresh this page to see the Magic ✨😉</b>
