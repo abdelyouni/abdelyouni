@@ -6,8 +6,8 @@
 <hr>
 <p align='center'>
     <span>Say hi ✋ to my new follower </span></br></br>
-    <img src='https://itspot.ma/github/makishi-asemota_avatar.png'><b></br>
-    <a href='https://github.com/makishi-asemota'>makishi-asemota</a></b></br></br>
+    <img src='https://itspot.ma/github/Sineastra_avatar.png'><b></br>
+    <a href='https://github.com/Sineastra'>Orfey Kostadinov</a></b></br></br>
 </p>
 <hr>
 <b>Follow me, then refresh this page to see the Magic ✨😉</b>
