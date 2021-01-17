@@ -6,8 +6,8 @@
 <hr>
 <p align='center'>
     <span>Say hi ✋ to my new follower </span></br></br>
-    <img src='https://itspot.ma/github/timo-cmd2_avatar.png'><b></br>
-    <a href='https://github.com/timo-cmd2'>Timo Sarkar</a></b></br></br>
+    <img src='https://itspot.ma/github/chandran-jr_avatar.png'><b></br>
+    <a href='https://github.com/chandran-jr'>Govind B Chandran</a></b></br></br>
 </p>
 <hr>
 <b>Follow me, then refresh this page to see the Magic ✨😉</b>
