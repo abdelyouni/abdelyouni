@@ -6,8 +6,8 @@
 <hr>
 <p align='center'>
     <span>Say hi ✋ to my new follower </span></br></br>
-    <img src='https://itspot.ma/github/el-pr0f3ss0r_avatar.png'><b></br>
-    <a href='https://github.com/el-pr0f3ss0r'>The Professor</a></b></br></br>
+    <img src='https://itspot.ma/github/zafercaliskan_avatar.png'><b></br>
+    <a href='https://github.com/zafercaliskan'>Zafer Çalışkan</a></b></br></br>
 </p>
 <hr>
 <b>Follow me, then refresh this page to see the Magic ✨😉</b>
