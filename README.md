@@ -6,8 +6,8 @@
 <hr>
 <p align='center'>
     <span>Say hi ✋ to my new follower </span></br></br>
-    <img src='https://itspot.ma/github/mustafafindik_avatar.png'><b></br>
-    <a href='https://github.com/mustafafindik'>Mustafa Fındık</a></b></br></br>
+    <img src='https://itspot.ma/github/mgmetehan_avatar.png'><b></br>
+    <a href='https://github.com/mgmetehan'>Metehan Gültekin</a></b></br></br>
 </p>
 <hr>
 <b>Follow me, then refresh this page to see the Magic ✨😉</b>
